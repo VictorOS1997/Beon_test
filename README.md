@@ -1,4 +1,4 @@
-# BeOn Technical Assessment
+# Beon Technical Assessment
 
 This repository was created for the BeOn technical assessment and contains the proposed solution, code organization, and required analyses according to the challenge specifications.
 
